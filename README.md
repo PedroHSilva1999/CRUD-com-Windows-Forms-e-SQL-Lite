@@ -14,3 +14,10 @@ Ao salvar ele carrega as informações do banco de dados.
 Ao atualizar o dado é removido ou alterado.
 
 ![image](https://github.com/PedroHSilva1999/CRUD-com-Windows-Forms-e-SQL-Lite/assets/88673304/b04e66da-6174-45d9-9811-e59c5ded810c)
+
+
+
+OBSERVAÇÃO:
+Para executar este app é nescessário o SQL Lite e definir o caminho do arquivo.
+
+![image](https://github.com/PedroHSilva1999/CRUD-com-Windows-Forms-e-SQL-Lite/assets/88673304/ec50b753-de81-489c-9d37-10aff745fe6a)
